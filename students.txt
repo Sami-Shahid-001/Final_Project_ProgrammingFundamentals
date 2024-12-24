@@ -1,0 +1,15 @@
+0001,Sami,BSCS-1D,PF:F|Maths:C|English:F|,1.5
+1991,aisal,BSSE-1A,PF:A+|Maths:F|,2
+6573,ashan,BSCS-1F,PF:F|Maths:F|,0
+0741,Zohaib,BSCS-1D,Maths:F|PF:D|,1.7
+0742,Shahmeer,BCS-1D,PF:D|Maths:F|,1.7
+0743,Afia,BCS-1D,PF:F|Maths:F|Physics:F|,1.3
+0744,Aleena,BCS-1D,Maths:F|PF:F|English:F|,1.3
+0765,Saud,BCS-1D,PF:F|English:F|Maths:F|Physics:F|,1.3
+0766,Sania,BCS-1D,PF:F|Maths:F|,1.3
+0767,Aman,BCS-1D,PF:F,1.3
+0987,Razia,BCS-1D,PF:C+,2.3
+0999,Zubair,BCS-1D,Maths:F,1.3
+0777,Abdullah,BCS-1D,PF:F,1.3
+0666,Ahmad,BCS-1D,PF:F|Maths:F|,1.3
+0641,Muneeb,BCS-1D,PF:F,1.3

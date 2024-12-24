@@ -1,0 +1,5 @@
+1001,hassan,PF
+1002,Rimsha,Physics
+1003,Arfan,Maths
+1004,Khalid,English
+1005,Hassan,Isl
